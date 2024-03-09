@@ -239,25 +239,16 @@ width: 100%;
 .ask {
   height: 400px;
   width: 500px;
-  background-image: url(ask_capce.png);
-  background-position: center;
-  background-repeat: no-repeat;
 }
 
 .paramedic {
   height: 400px;
   width: 500px;
-  background-image: url(paramedic.png);
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 .mobile {
   height: 400px;
   width: 500px;
-  background-image: url(mobile.png);
-  background-repeat: no-repeat;
-  background-position: center;
 }
 
 /* SECTION 5 */
