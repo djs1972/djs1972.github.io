@@ -60,8 +60,8 @@ ul {
 
 .main_img img {
   margin-left: 60px;
-  height: 200px;
-  width: 200px;
+  height: 500px;
+  width: 500px;
 }
 
 .main_para {
@@ -239,16 +239,25 @@ width: 100%;
 .ask {
   height: 400px;
   width: 500px;
+  background-image: url(ask_capce.png);
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .paramedic {
   height: 400px;
   width: 500px;
+  background-image: url(paramedic.png);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .mobile {
   height: 400px;
   width: 500px;
+  background-image: url(mobile.png);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 /* SECTION 5 */
@@ -265,7 +274,7 @@ width: 100%;
 .capce_shop {
   height: 220px;
   width: 350px;
-  background-image: url(/capce_sm_2.png);
+  background-image: url(capce_sm_2.png);
   background-position: center;
   background-repeat: no-repeat;
   background-color: #F7F7F7;
