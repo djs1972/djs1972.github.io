@@ -169,12 +169,6 @@ width: 100%;
 background-color: #F7F7F7;
 }
 
-/* .accredited {
-  height: 100px;
-  text-align: center;
-  background-color: #F7F7F7;
-} */
-
 .flex-container_2 h1 {
   text-align: center;
   color: #162152;
@@ -198,6 +192,7 @@ background-color: #F7F7F7;
 	95% { left: -200%; }
 	100% { left: 0; }
 }
+
 #slider figure {
 	width:300%;
 	position: relative;
@@ -207,6 +202,7 @@ background-color: #F7F7F7;
 #slider figure:hover {
 	/*animation-play-state: paused; enable for pause on hover*/
 }
+
 #slider figure img {
 	width: 200px;
 	height : 200px;
@@ -239,7 +235,7 @@ width: 100%;
 .ask {
   height: 400px;
   width: 500px;
-  background-image: url(/ask_capce.png);
+  background-image: url(ask_capce.png);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -247,7 +243,7 @@ width: 100%;
 .paramedic {
   height: 400px;
   width: 500px;
-  background-image: url(/paramedic.png);
+  background-image: url(paramedic.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -255,7 +251,7 @@ width: 100%;
 .mobile {
   height: 400px;
   width: 500px;
-  background-image: url(/mobile.png);
+  background-image: url(mobile.png);
   background-repeat: no-repeat;
   background-position: center;
 }
