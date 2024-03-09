@@ -60,8 +60,8 @@ ul {
 
 .main_img img {
   margin-left: 60px;
-  height: 200px;
-  width: 200px;
+  height: 500px;
+  width: 500px;
 }
 
 .main_para {
@@ -169,6 +169,12 @@ width: 100%;
 background-color: #F7F7F7;
 }
 
+/* .accredited {
+  height: 100px;
+  text-align: center;
+  background-color: #F7F7F7;
+} */
+
 .flex-container_2 h1 {
   text-align: center;
   color: #162152;
@@ -192,7 +198,6 @@ background-color: #F7F7F7;
 	95% { left: -200%; }
 	100% { left: 0; }
 }
-
 #slider figure {
 	width:300%;
 	position: relative;
@@ -202,7 +207,6 @@ background-color: #F7F7F7;
 #slider figure:hover {
 	/*animation-play-state: paused; enable for pause on hover*/
 }
-
 #slider figure img {
 	width: 200px;
 	height : 200px;
