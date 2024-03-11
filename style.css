@@ -215,51 +215,63 @@ background-color: #F7F7F7;
 
 /* SECTION 4 */
 
-.flex-container_3 {
-display: inline-flex;
-justify-content: center;
-background-color: #2C3B84;
-height: 550px;
-width: 100%;
-}
-
 .follow {
-  text-align: center;
-  background-color: #2C3B84;
-  height: 200px;
+  background-color: #162152;
+  height: 90px;
+  width: 100%;
 }
 
 .follow h1 {
-  color: #F16B27;
+  color: #FE924F;
   margin-top: -5px;
-  padding-top: 30px;
+  padding-top: 20px;
   font-size: 45px;
+  text-align: center;
+}
+
+.flex-container_3 {
+display: inline-flex;
+justify-content: space-around;
+background-color: #162152;
+height: 550px;
+width: 100%;
 }
 
 .ask {
   height: 400px;
   width: 500px;
-  background-image: url(ask_capce.png);
-  background-position: center;
-  background-repeat: no-repeat;
+  margin-top: 40px;
+  background-color: #FE924F;
+}
+
+.ask h3 {
+  text-align: center;
+  font-size: 24px;
 }
 
 .paramedic {
   height: 400px;
   width: 500px;
-  background-image: url(paramedic.png);
-  background-repeat: no-repeat;
-  background-position: center;
+  margin-top: 40px;
+  background-color: #FE924F;
+}
+
+.paramedic h3 {
+  text-align: center;
+  font-size: 24px;
 }
 
 .mobile {
   height: 400px;
   width: 500px;
-  background-image: url(mobile.png);
-  background-repeat: no-repeat;
-  background-position: center;
+  margin-top: 40px;
+  background-color: #FE924F;
 }
 
+.mobile h3 {
+  text-align: center;
+  font-size: 24px;
+}
 /* SECTION 5 */
 
 .flex-container_4 {
@@ -267,19 +279,20 @@ width: 100%;
   display: inline-flex;
   justify-content: center;
   background-color: #F7F7F7;
-  height: 300px;
+  height: 275px;
   width: 100%;
 }
 
 .capce_shop {
   height: 250px;
-  width: 350px;
+  width: 500px;
   background-color: #F7F7F7;
 }
 
 .capce_shop img {
   height: 200px;
-  width: 200px;
+  width: 400px;
+  margin-top: 30px;
 }
 
 .shop_box {
@@ -289,7 +302,7 @@ width: 100%;
   font-size: 20px;
 }
 
-.shop_box h2, p {
+.shop_box a, h2, p {
   color: #162152;
 }
 
@@ -351,12 +364,11 @@ text-align: left;
 }
 
 .p2 {
-margin-top: -12px;
-color: #162152;
+margin-top: -14px;
 }
 
 .p3 {
-margin-top: -12px;
+margin-top: -14px;
 }
 
 /* SECTION 8 */
